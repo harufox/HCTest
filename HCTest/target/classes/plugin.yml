@@ -1,0 +1,13 @@
+name: HCTest
+main: jp.haruserver.mc.hctest.HCTest
+version: 1.0.0
+api-version: 1.18
+commands:
+  hctest:
+    description: ""
+    permission: hctest.use
+    permission-message: You don't have <permission>
+  hctest2:
+    description: ""
+    permission: hctest.use
+    permission-message: You don't have <permission>
